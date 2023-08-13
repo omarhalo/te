@@ -1,0 +1,92 @@
+.logo {
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 50%;
+    
+ 
+}
+.nlogo{
+    height: 55px;
+    width: 55px;
+     overflow: hidden;
+   padding: 5px;
+    border-radius: 50%;
+
+   
+
+}
+nav{
+    background-color:darkgray;
+    width: 70%;
+    border-radius: 20px;
+  height: 65px;
+}
+.nav{
+    display: flex;
+  justify-content: center; /* هذا يقوم بتوسيط العناصر أفقياً */
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+   display: inline-block;
+    
+  }
+  h3 {
+    display: inline-block;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    border: 3px solid black;
+  }
+  
+  
+  
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+    border: 3px solid black;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+    border: 3px solid black;
+  }
+  .fsec{
+    width: 90%;
+    border:5px solid #125688;
+background-color: lightblue;  
+}
+.ysec{
+    width: 90%;
+    border:5px solid #ff0101;
+background-color: rgb(225, 65, 78); 
+overflow: hidden; 
+}
+  
+  
+  
